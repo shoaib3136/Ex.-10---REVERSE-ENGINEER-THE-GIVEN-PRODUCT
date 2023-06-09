@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE:5-06-2023 
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +31,17 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/shoaib3136/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/117919362/4b06adc2-087f-48ba-8ae7-de335f06ca40)
 
 ### Output:
+![image](https://github.com/shoaib3136/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/117919362/b973d700-d308-4ab8-84ec-85d997000d82)
 
 
-### Name:
-### Register Number:
+![image](https://github.com/shoaib3136/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/117919362/5fd4acae-ce53-4c84-b885-f8779f35a7c8)
+
+
+### Name: Shaik Shoaib Nawaz
+### Register Number: 212222240094
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
